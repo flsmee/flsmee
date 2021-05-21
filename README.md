@@ -1,6 +1,7 @@
 # Hi there 👋
 - 🌱 I’m currently learning Java
-- 🔭 I’m currently working on my websites
+- 🔭 Working currently on my websites
+- 😄 Pronouns: fleɪ/mɛ
 ### Languages
 [![Java](https://img.shields.io/badge/JAVA-e87000?style=for-the-badge&logo=java&logoColor=fff)](https://docs.oracle.com/en/java/)
 [![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=fff)](https://www.php.net/)
