@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-bda000?style=for-the-badge&logo=javascript&logoColor=fff)
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flsmee&repo=flsmee.github.io&theme=nord)](https://github.com/flsmee/flsmee.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flsmee&repo=arch&theme=nord)](https://github.com/flsmee/arch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flsmee&repo=beta&theme=nord)](https://github.com/flsmee/beta)
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flsmee&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flsmee&layout=compact&theme=nord)
